@@ -18,7 +18,6 @@ function Home() {
           <br />
           Eu me comprometo também a te amar, te respeitar, honrar e me entregar assim como Cristo amou a igreja. A buscar a cada dia ser parecido com Ele, aprender desse amor e derramar sobre a sua vida.
           <br />
-          Eu creio que é normal a gente ficar sem assunto, às vezes eles se esgotam, a rotina pode dificultar, e eu acho que é tudo bem ☺️.
         </h2>
       </div>
     );
